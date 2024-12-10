@@ -19,7 +19,6 @@ I'm a Master's student in Physics of Data at the University of Padova, passionat
 
 ### 🌱 Interests
 - Artificial Intelligence, Data Science, and Computational Physics
-- Creative outlets: Painting, Photography, and Music
 
 ---
 
